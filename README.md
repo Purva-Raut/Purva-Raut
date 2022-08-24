@@ -1,6 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub Page
-- 🌱 I’m currently upskilling my Python and SQL skills
+- 🔭 I’m currently upskilling my Python and SQL skills
+- 🌱 I'm Excel, SQL, Tableau, Python and PowerPoint Enthusiast
 - 📫 Reach out to me on : purva.raut@gmail.com
 - 📫 LinkedIn: https://www.linkedin.com/in/purva-raut-8884a152/
 - 📫 Tableau:https://public.tableau.com/app/profile/purva8424#!/?newProfile=&activeTab=0
