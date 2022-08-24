@@ -1,4 +1,10 @@
 ### Hi there 👋
+Welcome to my GitHub Page
+- 🌱 I’m currently upskilling my Python and SQL skills
+- 📫 Reach out to me on : purva.raut@gmail.com
+- 📫 LinkedIn: https://www.linkedin.com/in/purva-raut-8884a152/
+- ⚡ Fun fact: I am medical coder turned data analyst and I started learning data analysis in Jan 2021
+
 
 <!--
 **Purva-Raut/Purva-Raut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
