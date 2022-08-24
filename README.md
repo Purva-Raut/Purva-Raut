@@ -3,6 +3,7 @@ Welcome to my GitHub Page
 - 🌱 I’m currently upskilling my Python and SQL skills
 - 📫 Reach out to me on : purva.raut@gmail.com
 - 📫 LinkedIn: https://www.linkedin.com/in/purva-raut-8884a152/
+- 📫 Tableau:https://public.tableau.com/app/profile/purva8424#!/?newProfile=&activeTab=0
 - ⚡ Fun fact: I am medical coder turned data analyst and I started learning data analysis in Jan 2021
 
 
